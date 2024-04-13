@@ -5,6 +5,7 @@ It's essential to note that while this visualizer accurately demonstrates the me
 
 Additionally, the time complexities mentioned on the site represent average-case time complexities, providing users with a general understanding of each algorithm's efficiency.
 
+(NOT RESPONSIVE FOR MOBILE PHONES)
 
 # Getting Started with Create React App
 
