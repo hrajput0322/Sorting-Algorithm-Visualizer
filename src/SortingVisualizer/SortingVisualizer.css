@@ -1,0 +1,10 @@
+.arr-container {
+    position: relative;
+    display: flex;
+}
+
+.arr-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+}
